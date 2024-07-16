@@ -1,8 +1,12 @@
-# React + Vite
+# Portofolio Web React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+i made this website app for my friend for his porto using React + Tailwindcss!!
 
-Currently, two official plugins are available:
+## image from Web App and Mobile
+![image](https://github.com/user-attachments/assets/d9a175e1-16e3-4fb4-af92-480ae80f52c6)
+![image](https://github.com/user-attachments/assets/f878c16b-a1a0-4fe5-940f-010bf949c559)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to run this Project
+### 1. clone/download this project
+### 1. npm i
+### 2. npm run dev
