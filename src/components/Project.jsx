@@ -10,7 +10,7 @@ function Project() {
         transition={{ duration: 1.5 }}
         className="my-20 text-center text-4xl"
       >
-        project
+        Project
       </motion.h1>
       <div>
         {PROJECTS.map((project, index) => (
