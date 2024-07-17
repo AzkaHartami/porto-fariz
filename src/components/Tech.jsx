@@ -4,6 +4,7 @@ import { RiCss3Line } from "react-icons/ri";
 import { RiJavascriptLine } from "react-icons/ri";
 import { RiNodejsLine } from "react-icons/ri";
 import { RiFlutterLine } from "react-icons/ri";
+import { FaPython } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({
@@ -83,6 +84,22 @@ function Tech() {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <RiFlutterLine className="text-7xl text-blue-700" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(2.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <RiNodejsLine className="text-7xl text-green-300" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(3.4)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <FaPython className="text-7xl text-blue-700" />
         </motion.div>
       </motion.div>
     </div>
