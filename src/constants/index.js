@@ -8,7 +8,7 @@ export const ABOUT_TEXT = `I am an eighth-semester undergraduate student current
 
 export const EXPERIENCES = [
   {
-    year: "August - 2023 December",
+    year: "August - December 2023",
     role: "Intern Mentor",
     company: "PT Kinema Systrans Multimedia (Infinite Learning)",
     description: `Serving as a personal mentor for 20 mentees in the Red Hat Certified System Administrator Independent Study Program at Kampus Merdeka.
